@@ -13,7 +13,7 @@ de explicación de conceptos.
 
 - **Recogido por:** @reddrex (Jorge Zamora Rey), (Isabel Moyano Moreno), (Mario Crespo Miguel)
 - **Language(s) (NLP):** Spanish
-- 
+  
 ## Creación del dataset
 Para este dataset hemos empleado los apuntes de la asignatura de Lingüística computacional del grado de Lingüística y lenguas aplicadas de la universidad de Cádiz, y algunas
 cuestiones de la asignatura de Ingeniería del lenguaje. Además, hemos añadido la información que ha aparecido en páginas web en español, especialmente blogs, encontradas a través de Bootcat
