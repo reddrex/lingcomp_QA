@@ -11,7 +11,7 @@ Este dataset tiene la intención de ser educativo, explicando ciertos conceptos 
 básicos de Python y algunos paquetes como Wordnet o NLTK. También responde algunas cuestiones de lingüística de corpus y, por tanto, de estadística, especialmente cuestiones
 de explicación de conceptos.
 
-- **Recogido por:** @reddrex (Jorge Zamora Rey), (Isabel Moyano Moreno), (Mario Crespo Miguel)
+- **Recogido por:** @reddrex (Jorge Zamora Rey), @issyinthesky (Isabel Moyano Moreno), @MCMiguel (Mario Crespo Miguel)
 - **Language(s) (NLP):** Spanish
   
 ## Creación del dataset
