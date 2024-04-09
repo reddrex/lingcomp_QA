@@ -22,5 +22,5 @@ al realizar una búsqueda de términos de la lingüística computacional. Estos 
 Herramientas: Bootcat para la extracción de .txt de webs, Sublime text para la organización en preguntas y respuestas en JSON y la limpieza con regex.
 
 ## Links del dataset
-HuggingFace: https://huggingface.co/datasets/reddrex/lingcomp_QA
+HuggingFace: https://huggingface.co/datasets/somosnlp/LingComp_QA
 
