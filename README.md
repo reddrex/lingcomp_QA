@@ -23,4 +23,5 @@ Herramientas: Bootcat para la extracción de .txt de webs, Sublime text para la 
 
 ## Links del dataset
 HuggingFace: https://huggingface.co/datasets/somosnlp/LingComp_QA
+Zenodo: https://zenodo.org/records/18262332
 
